@@ -4,7 +4,7 @@
 <hr>
 This program is specifically designed for windows systems.
 make sure you have c/c++ compilers installed,
-if not install them using MinGw from ,
+if not install them using MinGw from <a href="https://sourceforge.net/projects/mingw/postdownload">MinGw official site.<a>,
 as it provides both gcc and g++ for c and c++ respectively.
 <hr>
 
